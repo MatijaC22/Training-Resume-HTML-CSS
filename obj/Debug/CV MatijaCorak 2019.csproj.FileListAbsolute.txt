@@ -1,0 +1,7 @@
+C:\Users\PROBOOK\Desktop\WebDevelopment\CV MatijaCorak 2019\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\PROBOOK\Desktop\WebDevelopment\CV MatijaCorak 2019\bin\TypeScriptHTMLApp1.dll
+C:\Users\PROBOOK\Desktop\WebDevelopment\CV MatijaCorak 2019\bin\TypeScriptHTMLApp1.pdb
+C:\Users\PROBOOK\Desktop\WebDevelopment\CV MatijaCorak 2019\obj\Debug\CV MatijaCorak 2019.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK\Desktop\WebDevelopment\CV MatijaCorak 2019\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\PROBOOK\Desktop\WebDevelopment\CV MatijaCorak 2019\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\PROBOOK\Desktop\WebDevelopment\CV MatijaCorak 2019\obj\Debug\CV MatijaCorak 2019.csproj.AssemblyReference.cache
